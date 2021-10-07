@@ -3,7 +3,7 @@
     Auxillary project meant to download youtube's video intially
     will be upgraded to download from any sites
     Still under modifications
-    Secured source license
+    Open source license
 '''
 
 #!/usr/bin/env python3
